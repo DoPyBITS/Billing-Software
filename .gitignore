@@ -1,0 +1,4 @@
+#Ignore all .pyc files
+*.pyc
+__pycache__
+credentials.storage
